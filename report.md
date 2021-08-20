@@ -20,12 +20,12 @@
 На тестирование затрачено: 5 часов с оформлением
 
 В результате тестирования выявлены следующие дефекты:
-* Не производиться валидация вип карт Diners Club - Carte Blanche (14 знаков в номере)
-* Не производиться валидация вип карт Diners Club - International (14 знаков в номере)
-* Не производиться валидация карт American Express (AMEX) (15 знаков в номере)
-* Не производиться валидация карт VISA (19 знаков в номере)
-* Не производиться валидация карт Discover (19 знаков в номере)
-* Не производиться валидация карт JCB (19 знаков в номере)
+* [Не производиться валидация вип карт Diners Club - Carte Blanche (14 знаков в номере)](https://github.com/greengrover/Credit-Card-Number-Validator/issues/1)
+* [Не производиться валидация вип карт Diners Club - International (14 знаков в номере)](https://github.com/greengrover/Credit-Card-Number-Validator/issues/2)
+* [Не производиться валидация карт American Express (AMEX) (15 знаков в номере)](https://github.com/greengrover/Credit-Card-Number-Validator/issues/3)
+* [Не производиться валидация карт VISA (19 знаков в номере)](https://github.com/greengrover/Credit-Card-Number-Validator/issues/4)
+* [Не производиться валидация карт Discover (19 знаков в номере)](https://github.com/greengrover/Credit-Card-Number-Validator/issues/5)
+* [Не производиться валидация карт JCB (19 знаков в номере)](https://github.com/greengrover/Credit-Card-Number-Validator/issues/6)
 
 ## Описание процесса тестирования
 
